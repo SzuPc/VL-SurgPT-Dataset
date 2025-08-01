@@ -22,7 +22,7 @@ dataset/
  │           ├── seq000/
  │           │   ├── frames/
  │           │   │   └── 00000000ms-00001234ms-visible.mp4
- │           │   └── segmentation/
+ │           │   └── annotation/
  │           │       ├── labels.json         # Point tracking labels
  │           │       └── texts.json          # Text annotations
  │           ├── seq001/
@@ -34,7 +34,7 @@ dataset/
               ├── seq000/
               │   ├── frames/
               │   │   └── 00000000ms-00001234ms-visible.mp4
-              │   └── segmentation/
+              │   └── annotation/
               │       ├── labels.json
               │       └── texts.json
               ├── seq001/
